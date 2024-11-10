@@ -41,4 +41,7 @@ we provide a draft model weight (not fully trained, just for testing):
  --lr=1e-5 \
  --projection_dim=512
    
-# Here are some of the output comparison during our testing (at the same period of time, left is the autoclipped mash-up video, right is the oinline mash-up video for reference)
+# Analysis
+Here are some of the output comparison during our testing (at the same period of time, left is the autoclipped mash-up video, right is the oinline mash-up video for reference):
+
+1. 
