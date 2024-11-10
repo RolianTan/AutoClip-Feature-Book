@@ -1,7 +1,11 @@
 # AutoClip-Feature-Book
 
-The sample inference result (automatically clipped video) can be found:
+The demo inference result (automatically clipped video) can be found:
 https://drive.google.com/file/d/1pKmR2JF7YHkeNnhvPVcEOipaU1sZ76jR/view?usp=drive_link
+Here is the presentation slide:
+https://docs.google.com/presentation/d/1D_ZEj6tLAETAT6sK1z0dqZLM6fKoUmzq/edit?usp=drive_link&ouid=112620541577719764728&rtpof=true&sd=true
+
+
 
 The process of generate this video:
 1. find a good mash-up video online (eg. https://drive.google.com/file/d/1BIAYRRFWV3lXB834nH627cZgd__5PNlN/view?usp=sharing)
