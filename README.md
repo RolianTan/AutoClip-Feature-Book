@@ -49,4 +49,28 @@ we provide a draft model weight (not fully trained, just for testing):
 # Analysis
 Here are some of the output comparison during our testing (at the same period of time, left is the autoclipped mash-up video, right is the oinline mash-up video for reference):
 
-1. 
+1. Broad View Scenes
+<div style="display: flex; justify-content: space-between;">
+  <video src="comparision_video_clips/clip1.mp4" controls width="45%"></video>
+  <video src="pcomparision_video_clips/clip1_ori.mp4" controls width="45%"></video>
+</div>
+
+2. Buildings Scenes
+<div style="display: flex; justify-content: space-between;">
+  <video src="comparision_video_clips/clip2.mp4" controls width="45%"></video>
+  <video src="pcomparision_video_clips/clip2_ori.mp4" controls width="45%"></video>
+</div>
+
+3. People/Crowd Scenes
+<div style="display: flex; justify-content: space-between;">
+  <video src="comparision_video_clips/clip3.mp4" controls width="45%"></video>
+  <video src="pcomparision_video_clips/clip3_ori.mp4" controls width="45%"></video>
+</div>
+
+3. Dynamic Motion
+<div style="display: flex; justify-content: space-between;">
+  <video src="comparision_video_clips/clip4.mp4" controls width="45%"></video>
+  <video src="pcomparision_video_clips/clip4_ori.mp4" controls width="45%"></video>
+</div>
+
+
