@@ -53,27 +53,19 @@ Left is the auto-clipped mash-up video (in Japan)
 Right is the oinline mash-up video (in Seatle, US)
 
 1. Broad View Scenes
-<div style="display: flex; justify-content: space-between;">
-  <video src="comparision_video_clips/clip1.mp4" controls width="45%"></video>
-  <video src="pcomparision_video_clips/clip1_ori.mp4" controls width="45%"></video>
-</div>
+![Autoclipped Video](comparision/clip1.gif)
+![Reference Video](comparision/clip1_ori.gif)
 
 2. Buildings Scenes
-<div style="display: flex; justify-content: space-between;">
-  <video src="comparision_video_clips/clip2.mp4" controls width="45%"></video>
-  <video src="pcomparision_video_clips/clip2_ori.mp4" controls width="45%"></video>
-</div>
+![Autoclipped Video](comparision/clip2.gif)
+![Reference Video](comparision/clip2_ori.gif)
 
 3. People/Crowd Scenes
-<div style="display: flex; justify-content: space-between;">
-  <video src="comparision_video_clips/clip3.mp4" controls width="45%"></video>
-  <video src="pcomparision_video_clips/clip3_ori.mp4" controls width="45%"></video>
-</div>
+![Autoclipped Video](comparision/clip3.gif)
+![Reference Video](comparision/clip3_ori.gif)
 
 3. Dynamic Motion
-<div style="display: flex; justify-content: space-between;">
-  <video src="comparision_video_clips/clip4.mp4" controls width="45%"></video>
-  <video src="pcomparision_video_clips/clip4_ori.mp4" controls width="45%"></video>
-</div>
+![Autoclipped Video](comparision/clip4.gif)
+![Reference Video](comparision/clip4_ori.gif)
 
 
