@@ -47,7 +47,10 @@ we provide a draft model weight (not fully trained, just for testing):
  --projection_dim=512
    
 # Analysis
-Here are some of the output comparison during our testing (at the same period of time, left is the autoclipped mash-up video, right is the oinline mash-up video for reference):
+Here are some of the output comparison during our testing 
+At the same period of time in the video: 
+Left is the auto-clipped mash-up video (in Japan)
+Right is the oinline mash-up video (in Seatle, US)
 
 1. Broad View Scenes
 <div style="display: flex; justify-content: space-between;">
